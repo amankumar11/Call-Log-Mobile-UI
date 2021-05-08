@@ -11,6 +11,7 @@ body{
 }
 .Days{
     color: white;
+    padding-left: 10px;
     
 }
 .contacts{
@@ -47,10 +48,16 @@ h6{
     padding-left: 40px;
 }
 
-#col3{
+.col{
     padding-left: 0px;
+    padding-right: 0px;
 }
 
 .footer3-text{
-    padding-top: 14px;
+    align-items: center;
+    
+}
+
+.rect2{
+    
 }
