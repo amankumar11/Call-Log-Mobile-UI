@@ -1,0 +1,56 @@
+.search-bar{
+    background-color:#1e1e1e;
+    
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;   
+}
+
+body{
+    background-color: #1e1e1e;
+}
+.Days{
+    color: white;
+    
+}
+.contacts{
+    color: white;
+    
+}
+
+.container{
+    color: white;
+}
+
+.image{
+    margin-left: 25px;
+}
+
+h3{
+    margin-right: 90px;
+}
+
+.call-image{
+    margin-right: ;
+}
+
+h6{
+    color: grey;
+}
+
+.footer1-text{
+    padding-left: 10px;
+}
+
+.footer2-text{
+    padding-top: 6px;
+    padding-left: 40px;
+}
+
+#col3{
+    padding-left: 0px;
+}
+
+.footer3-text{
+    padding-top: 14px;
+}
