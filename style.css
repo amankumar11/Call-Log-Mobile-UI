@@ -39,13 +39,8 @@ h6{
     color: grey;
 }
 
-.footer1-text{
-    padding-left: 10px;
-}
-
-.footer2-text{
-    padding-top: 6px;
-    padding-left: 40px;
+.footer-text{
+    color: #9ca0a6;
 }
 
 .col{
@@ -53,11 +48,8 @@ h6{
     padding-right: 0px;
 }
 
-.footer3-text{
-    align-items: center;
-    
+
+.rect{
+    fill: #2a2b2f;
 }
 
-.rect2{
-    
-}
